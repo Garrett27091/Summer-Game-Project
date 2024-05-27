@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://igeia0ahp16d"
-path="res://.godot/imported/wood tile texture.png-9ad6596ca52aa265bac436f64d8736cf.ctex"
+uid="uid://c73ag41fd5lq6"
+path="res://.godot/imported/wood small.png-d1ead0358a574a385f297161631247c6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Art/Platforms/wood tile texture.png"
-dest_files=["res://.godot/imported/wood tile texture.png-9ad6596ca52aa265bac436f64d8736cf.ctex"]
+source_file="res://Art/Platforms/wood small.png"
+dest_files=["res://.godot/imported/wood small.png-d1ead0358a574a385f297161631247c6.ctex"]
 
 [params]
 

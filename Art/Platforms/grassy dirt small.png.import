@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://igeia0ahp16d"
-path="res://.godot/imported/wood tile texture.png-9ad6596ca52aa265bac436f64d8736cf.ctex"
+uid="uid://c7kmc6py3d6uq"
+path="res://.godot/imported/grassy dirt small.png-6fe52413089df86184f7c574e70c097c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Art/Platforms/wood tile texture.png"
-dest_files=["res://.godot/imported/wood tile texture.png-9ad6596ca52aa265bac436f64d8736cf.ctex"]
+source_file="res://Art/Platforms/grassy dirt small.png"
+dest_files=["res://.godot/imported/grassy dirt small.png-6fe52413089df86184f7c574e70c097c.ctex"]
 
 [params]
 

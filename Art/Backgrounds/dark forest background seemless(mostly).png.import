@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bu7jf0066v5ur"
-path="res://.godot/imported/dark forest background seemless(mostly).png-01daee3a78095fc597447a184373807a.ctex"
+path="res://.godot/imported/dark forest background seemless(mostly).png-9d2f18fde0a85fe40c80d8f1b3a867b6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://dark forest background seemless(mostly).png"
-dest_files=["res://.godot/imported/dark forest background seemless(mostly).png-01daee3a78095fc597447a184373807a.ctex"]
+source_file="res://Art/Backgrounds/dark forest background seemless(mostly).png"
+dest_files=["res://.godot/imported/dark forest background seemless(mostly).png-9d2f18fde0a85fe40c80d8f1b3a867b6.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://igeia0ahp16d"
-path="res://.godot/imported/wood tile texture.png-9ad6596ca52aa265bac436f64d8736cf.ctex"
+uid="uid://c5hcm0vgyifr2"
+path="res://.godot/imported/stone wall 3x3.png-66e72e7a4bb903b7fdf30ece24f44bfa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Art/Platforms/wood tile texture.png"
-dest_files=["res://.godot/imported/wood tile texture.png-9ad6596ca52aa265bac436f64d8736cf.ctex"]
+source_file="res://Art/Platforms/stone wall 3x3.png"
+dest_files=["res://.godot/imported/stone wall 3x3.png-66e72e7a4bb903b7fdf30ece24f44bfa.ctex"]
 
 [params]
 

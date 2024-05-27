@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b3smnwiutxbnf"
-path="res://.godot/imported/cash sprite sheet darker layers.png-56c8c7028a86623b848664bf8566b4ae.ctex"
+path="res://.godot/imported/cash sprite sheet darker layers.png-8c3a9e26f0513b95fcc1c4100ee67719.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://cash sprite sheet darker layers.png"
-dest_files=["res://.godot/imported/cash sprite sheet darker layers.png-56c8c7028a86623b848664bf8566b4ae.ctex"]
+source_file="res://Art/Items/cash sprite sheet darker layers.png"
+dest_files=["res://.godot/imported/cash sprite sheet darker layers.png-8c3a9e26f0513b95fcc1c4100ee67719.ctex"]
 
 [params]
 

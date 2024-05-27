@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dq7wdtq1yqbwn"
-path="res://.godot/imported/mossy stone tile texture.png-f1583bd457f147cffcd8f14f1ce48075.ctex"
+path="res://.godot/imported/mossy stone tile texture.png-f898bce85b7326f9ffc98025ea8ec8d7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mossy stone tile texture.png"
-dest_files=["res://.godot/imported/mossy stone tile texture.png-f1583bd457f147cffcd8f14f1ce48075.ctex"]
+source_file="res://Art/Platforms/mossy stone tile texture.png"
+dest_files=["res://.godot/imported/mossy stone tile texture.png-f898bce85b7326f9ffc98025ea8ec8d7.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://igeia0ahp16d"
-path="res://.godot/imported/wood tile texture.png-9ad6596ca52aa265bac436f64d8736cf.ctex"
+uid="uid://bn55mtdrnei5s"
+path="res://.godot/imported/mossy stone small.png-21961a904565ce9dddd0732429052b2a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Art/Platforms/wood tile texture.png"
-dest_files=["res://.godot/imported/wood tile texture.png-9ad6596ca52aa265bac436f64d8736cf.ctex"]
+source_file="res://Art/Platforms/mossy stone small.png"
+dest_files=["res://.godot/imported/mossy stone small.png-21961a904565ce9dddd0732429052b2a.ctex"]
 
 [params]
 

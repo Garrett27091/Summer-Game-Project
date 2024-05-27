@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://1oa0vlfi7hin"
-path="res://.godot/imported/guy2 sprite sheet default stance.png-7cf84bd6ad5edae787c83069c7324441.ctex"
+path="res://.godot/imported/guy2 sprite sheet default stance.png-49409b6ebae28899c25628556f84e0c1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://guy2 sprite sheet default stance.png"
-dest_files=["res://.godot/imported/guy2 sprite sheet default stance.png-7cf84bd6ad5edae787c83069c7324441.ctex"]
+source_file="res://Art/Characters/guy2 sprite sheet default stance.png"
+dest_files=["res://.godot/imported/guy2 sprite sheet default stance.png-49409b6ebae28899c25628556f84e0c1.ctex"]
 
 [params]
 
